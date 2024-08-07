@@ -1,17 +1,17 @@
-![image](https://user-images.githubusercontent.com/72471055/228524379-c9c49282-0479-47f4-83cf-c1ef1be5dc61.png)
-<!-- <h1 align="center">Hi 👋, I'm Sergeo Moffo</h1> -->
-<h3 align="center">Fullstack Developer - DevOps</h3>
+![image](https://media.licdn.com/dms/image/D4E03AQEQtGbj8W3NsA/profile-displayphoto-shrink_200_200/0/1709757669648?e=2147483647&v=beta&t=7FjpJ809ym48Dkvz9gw9wlkk49rXFzhPX3O5mpwz7Mo)
+<!-- <h1 align="center">Hi 👋, I'm Gilles Sob</h1> -->
+<h3 align="center">Fullstack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sngdtechnologies&label=Profile%20views&color=0e75b6&style=flat" alt="sngdtechnologies" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sngdtechnologies" alt="sngdtechnologies" /></a> </p>
 
 
-- 🌱 I’m currently learning **Sonarcube, Ansible, Terraform**
+- 🌱 I’m currently learning **Sonarcube**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sergeo-selagsa-moffo-138439198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sergeo-selagsa-moffo-138439198/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gilles-descartes-sob-64132a1b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sergeo-selagsa-moffo-138439198/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

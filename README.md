@@ -1,4 +1,3 @@
-![image](https://media.licdn.com/dms/image/D4E03AQEQtGbj8W3NsA/profile-displayphoto-shrink_200_200/0/1709757669648?e=2147483647&v=beta&t=7FjpJ809ym48Dkvz9gw9wlkk49rXFzhPX3O5mpwz7Mo)
 <!-- <h1 align="center">Hi 👋, I'm Gilles Sob</h1> -->
 <h3 align="center">Fullstack Developer</h3>
 

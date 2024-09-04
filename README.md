@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sngdtechnologies" alt="sngdtechnologies" /></a> </p>
 
 
-- 🌱 I’m currently learning **Plex server**
+- 🌱 I’m currently learning **Stremio, Jellyfin, VueJs and Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
